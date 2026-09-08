@@ -205,12 +205,12 @@ const Home = () => {
                     <span className="inline-block animate-pulse text-red-500">♥</span>
                     {' '}by{' '}
                     <a
-                        href="https://x.com/pratyu_sh_arma"
+                        href="www.linkedin.com/in/sanvi-pal-7785012a1"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-cyan-500 hover:text-cyan-400 font-medium transition-colors duration-200 relative group"
                     >
-                        Pratyush
+                        Sanvi
                         <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-cyan-400 group-hover:w-full transition-all duration-300"></span>
                     </a>
                 </p>
